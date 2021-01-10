@@ -1,4 +1,4 @@
-<img src="GDP.PNG">
+<img src="GDP.png">
 
 # GDP Project
 ### GDP Forcasting
