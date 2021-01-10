@@ -1,6 +1,8 @@
+<img src="StockAnalysisQuants.PNG">
+
 # GDP Project
 ### GDP Forcasting
-This was my project was during my undergraduate at CSUS in Spring 2012. I had to analyze GPD data and use excel for statistics and forecasting.
+This was my independent project during my undergrad at CSUS in Spring 2012. I analyze GPD data in excel and stat software.  I was using excel for data analysis. I did statistics and forecasting.
 
 
 ### Author’s Name: Tin Hang  
