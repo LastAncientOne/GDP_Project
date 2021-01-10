@@ -1,4 +1,4 @@
-<img src="StockAnalysisQuants.PNG">
+<img src="GDP.PNG">
 
 # GDP Project
 ### GDP Forcasting
