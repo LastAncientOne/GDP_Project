@@ -5,7 +5,7 @@
 This was my independent project during my undergrad at CSUS in Spring 2012. I analyze GPD data in excel and stat software.  I was using excel for data analysis. I did statistics and forecasting.  As for statistics, I used hypothesis testing, linear regression, R-squared, and Significance F. 
 
 ### Purpose of this research paper
-The purpose for this project is to explain the variation of GDP independent variables and use ten independent variable that relates to GDP. 
+The purpose for this project is to explain the variation of GDP independent variables and use ten independent variables that relates to GDP. 
 
 ### RELATIONSHIPS TO BE RESEARCHED
 
